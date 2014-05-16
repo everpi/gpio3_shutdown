@@ -1,9 +1,3 @@
-/*
- * Shutdown via botão no gpio3.
- * 
- * EverPi - blog.everpi.net - everpi@tsar.in
- *
- */
 /*  
  *  GPIO3 Button system shutdown for Raspberry Pi
  *
